@@ -22,6 +22,7 @@ public class GCD {
             }
         System.out.print(g);
     }
+
 }
 
 /*
